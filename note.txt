@@ -14,3 +14,13 @@ Now our work will continue locally
 3. we want this change to be reflected in remote repository so we PUSHED local commits to remote repository using push origin button
 4. observe it has been added in your repository under GitHub.com
 
+we do not havae to push one commit at a time 
+you can oush multiple commits in one shot
+there is not limit
+
+how to save after adding text in sublime:
+
+COMMAND + S
+or
+FILE -> SAVE
+
